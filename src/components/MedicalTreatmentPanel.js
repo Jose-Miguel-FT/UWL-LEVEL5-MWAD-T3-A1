@@ -2,6 +2,7 @@ import React from 'react';
 
 function MedicalTreatmentPanel() {
   const [treatId, setTreatId] = React.useState('');
+  const b;
 
   const [treatCourseId, setTreatCourseId] = React.useState('');
 
