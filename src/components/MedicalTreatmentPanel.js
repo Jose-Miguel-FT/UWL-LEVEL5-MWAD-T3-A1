@@ -12,4 +12,8 @@ function MedicalTreatmentPanel() {
   const [name, setName] = React.useState('');
 
   const [startDate, setStartDate] = React.useState('');
+
+  return null;
 }
+
+export default MedicalTreatmentPanel;
